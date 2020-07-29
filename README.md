@@ -4,6 +4,8 @@
 
 写了一个 fofa 信息采集 加 爬取网页title的功能 顺便检测了存活，自己用用
 
+### 地址
+https://github.com/godzeo/fofa_GUi/releases/tag/1.0
 
 
 ### 使用
